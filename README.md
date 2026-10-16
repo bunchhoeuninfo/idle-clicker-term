@@ -120,7 +120,7 @@ These Terms are subject to applicable laws and regulations. Any governing-law or
 If you have questions about these Terms & Conditions, please contact us at:
 
 **Developer:** Idle Empire Developer  
-**Email:** [Insert your valid developer contact email]
+**Email:** bunchhoeun.chhim@gmail.com
 
 Thank you for playing Idle Empire!
 
